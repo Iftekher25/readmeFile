@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Full-stack Web Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iftychowdhury255&label=Profile%20views&color=0e75b6&style=flat" alt="iftychowdhury255" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiftychowdhury255&count_bg=%230E75B6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
 </p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftychowdhury255&theme=onedark" alt="iftychowdhury255" /></a>
 </p>
