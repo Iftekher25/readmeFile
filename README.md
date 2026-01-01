@@ -2,10 +2,6 @@
 <h3 align="center">A dedicated Full-stack Developer from Bangladesh 🇧🇩</h3>
 
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftychowdhury255&theme=onedark" alt="iftychowdhury255" /></a>
-</p>
-
 ---
 
 ### 🚀 About Me
